@@ -1,7 +1,8 @@
-import React, { useEffect } from 'react';
+import React, { useEffect } from "react";
 import M from "materialize-css";
 
-import './App.css';
+import "./App.css";
+import SideNav from "./Components/SideNav";
 
 function App() {
   useEffect(() => {
@@ -10,9 +11,7 @@ function App() {
 
   return (
     <div className="App">
-      <p>
-        <code>Webpage Under Construction!</code>
-      </p>
+      <SideNav/>
     </div>
   );
 }
