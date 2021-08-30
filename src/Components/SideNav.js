@@ -10,12 +10,12 @@ function SideNav() {
     
     return (
         <div className="side-nav">
-            <NavItem icon="home" anchor="Home"/>
-            <NavItem icon="person" anchor="Profile"/>
-            <NavItem icon="verified_user" anchor="Experience"/>
-            <NavItem icon="code" anchor="Technology"/>
-            <NavItem icon="school" anchor="Education"/>
-            <NavItem icon="share" anchor="Connect"/>
+            <NavItem icon="home" anchor="Home" link="#home"/>
+            <NavItem icon="person" anchor="Profile" link="#profile"/>
+            <NavItem icon="verified_user" anchor="Experience" link="#experience"/>
+            <NavItem icon="code" anchor="Technology" link="#technology"/>
+            <NavItem icon="school" anchor="Education" link="#education"/>
+            <NavItem icon="share" anchor="Connect" link="#connect"/>
         </div>
     );
 }

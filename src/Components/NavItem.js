@@ -9,10 +9,10 @@ function NavItem(props) {
     return (
         <div className="nav-item row">
             <div className="col">
-                <a href="#section"><i className="material-icons">{props.icon}</i></a>
+                <a href={props.link}><i className="material-icons">{props.icon}</i></a>
             </div>
             <div className="col">
-                <a href="#section" className="text">{props.anchor}</a>
+                <a href={props.link} className="text"><code>{props.anchor}</code></a>
             </div>
         </div>
     );
