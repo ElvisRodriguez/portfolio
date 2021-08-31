@@ -10,7 +10,9 @@ function Profile(props) {
     
     return (
         <div className="profile" id="profile">
-            <h1><code>Profile</code></h1>
+            <div className="profile-header">
+                <h1><code>Profile</code></h1>
+            </div>
             <img src={profile_picture} className="profile-picture" alt="Profile of Elvis Rodriguez">
             </img>
             <ul>
@@ -19,12 +21,6 @@ function Profile(props) {
                     <br/>
                     <div className="label-value">
                         <p><code>Elvis Rodriguez</code></p>
-                    </div>
-                </li>
-                <li>
-                    <label>Birthday</label>
-                    <div className="label-value">
-                        <p><code>December 11, 1993</code></p>
                     </div>
                 </li>
                 <li>

@@ -7,14 +7,16 @@ function NavItem(props) {
       });
     
     return (
-        <div className="nav-item row">
-            <div className="col">
-                <a href={props.link}><i className="material-icons">{props.icon}</i></a>
+        <a href={props.link} className="waves-effect waves-light">
+            <div className="nav-item row valign-wrapper">
+                <div className="col">
+                    <i className="material-icons">{props.icon}</i>
+                </div>
+                <div className="col">
+                    <code>{props.anchor}</code>
+                </div>
             </div>
-            <div className="col">
-                <a href={props.link} className="text"><code>{props.anchor}</code></a>
-            </div>
-        </div>
+        </a>
     );
 }
 

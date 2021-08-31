@@ -1,0 +1,8 @@
+{
+    "GoogleEP" : [
+        "Created a usage metrics dashboard in Python for testing infrastructure that managed pools of sandbox environments in order to show leadership and clients the impact of the tool.",
+        "Utilized technologies such as the Spanner database, protocol buﬀers, and an internal ﬁle compression/storage tool that transformed data into a structure queryable with SQL which allowed metrics to display on the dashboard in the form of various graph types.",
+        "Implemented a pipeline in Python to fetch, transform, organize and prepare data metrics from a Spanner database.",
+        "Presented documentation and usage metrics dashboard to an extended team of 20 including 3 project managers as well as 45 interns."
+    ]
+}
