@@ -147,6 +147,9 @@ label {
 }
 
 @media (max-width: 600px) {
+  html {
+    width: 100vh;
+  }
   .profile-picture {
     height: 50%;
     width: 50%;
