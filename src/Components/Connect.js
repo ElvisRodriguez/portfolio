@@ -8,7 +8,7 @@ function Connect(props) {
     
     return (
         <div className="connect" id="connect">
-            <div className="gray-header">
+            <div className="blue-header">
                 <h1><code>Connect</code></h1>
             </div>
         </div>

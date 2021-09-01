@@ -28,7 +28,7 @@ function Experience(props) {
                     </div>
                     <ul className="card-badges">
                         <li>Metrics</li>
-                        <li>Closed-src</li>
+                        <li>Data Processing</li>
                     </ul>
                     <ul className="card-details left-align">
                         {Strings["GoogleEP"].map((description, i) => {

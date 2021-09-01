@@ -8,7 +8,7 @@ function Technology(props) {
     
     return (
         <div className="technology" id="technology">
-            <div className="gray-header">
+            <div className="blue-header">
                 <h1><code>Technology</code></h1>
             </div>
         </div>

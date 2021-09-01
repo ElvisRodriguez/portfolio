@@ -35,24 +35,19 @@
   flex-direction: row;
 }
 
-.home, .profile, .education, .experience, .technology, .connect {
+.profile, .education, .experience, .technology, .connect {
   align-items: center;
-  background-color: #D9D9D9;
   display: flex;
   flex-direction: column;
   height: 100vh;
   min-height: 100%;
   margin-left: 160px;
   text-align: center;
+  width: auto;
 }
 
 .experience, .education {
   background-color: #77A076;
-}
-
-.gray-header {
-  background-color:#c5c3c3;
-  width: 100%;
 }
 
 .green-header {
@@ -65,13 +60,19 @@
   padding-top: 5px;
 }
 
+.profile, .technology, .connect {
+  background-color:#039BE5;
+  color: aliceblue;
+}
+
 .profile {
   background-color:#039BE5;
   height: 100%;
   color: aliceblue;
 }
 
-.profile-header {
+
+.profile-header, .blue-header {
   background-color:#058BCE;
   margin-bottom: 5px;
   width: 100%;
@@ -100,6 +101,9 @@
   box-shadow: 10px 0 3px 1px #232323;
 }
 
+.typewriter {
+  display: inline-block;
+}
 
 .typewriter h2{
   overflow: hidden;
@@ -108,7 +112,7 @@
   margin: 0 auto;
   letter-spacing: .10em;
   animation: 
-    typing 3s steps(40, end),
+    typing 2s steps(40, end),
     blink-caret .75s step-end infinite;
 }
 
@@ -140,21 +144,29 @@ label {
   .side-nav {
     display: none;
   }
-  .home, .profile, .education, .experience, .technology, .connect {
+  .profile, .education, .experience, .technology, .connect {
     margin: 0;
-    width: max(100vh, 100vh + 209px);
+    width: 100vw;
+  }
+  .profile-picture {
+    height: 30%;
+    width: 30%;
   }
 }
 
 @media (max-width: 600px) {
-  html {
-    width: 100vh;
+  .profile, .education, .experience, .technology, .connect {
+    margin: 0;
+    width: 100vw;
   }
   .profile-picture {
     height: 50%;
     width: 50%;
   }
-  h3 {
+  h1 {
     font-size: 30px;
+  }
+  h2 {
+    font-size: 20px;
   }
 }

@@ -11,22 +11,18 @@ function Profile(props) {
     return (
         <div className="profile" id="profile">
             <div className="profile-header">
-                <h1><code>Profile</code></h1>
+                <h1>Elvis Rodriguez</h1>
+                <div className="typewriter center-align">
+                    <h2><code>Software Engineer</code></h2>
+                </div>
             </div>
             <img src={profile_picture} className="profile-picture" alt="Profile of Elvis Rodriguez">
             </img>
             <ul>
                 <li>
-                    <label>Name</label>
-                    <br/>
-                    <div className="label-value">
-                        <p><code>Elvis Rodriguez</code></p>
-                    </div>
-                </li>
-                <li>
                     <label>Titles</label>
                     <div className="label-value">
-                        <p><code>Software Engineer</code></p>
+                        <p><code>Open Source Contributor</code></p>
                         <p><code>Python Developer</code></p>
                         <p><code>React Developer</code></p>
                     </div>
