@@ -7,6 +7,7 @@
 
 .card .card-image img {
   border-radius: 50%;
+  border: 1px solid white;
 }
 
 .card-badges {
@@ -33,6 +34,21 @@
 .card-details li{
   display: flex;
   flex-direction: row;
+}
+
+.connect .container {
+  display: flex;
+  flex-direction: row;
+}
+
+.connect .container .logo {
+  width: 100%;
+}
+
+.connect img {
+  border-radius: 50%;
+  height: 70%;
+  width: 70%;
 }
 
 .profile, .education, .experience, .technology, .connect {
@@ -101,6 +117,10 @@
   box-shadow: 10px 0 3px 1px #232323;
 }
 
+.side-nav a:nth-child(2n+2) {
+  color: #77A076;
+}
+
 .typewriter {
   display: inline-block;
 }
@@ -155,6 +175,13 @@ label {
 }
 
 @media (max-width: 600px) {
+  .connect .container {
+    flex-direction: column;
+  }
+  .connect .container .Gmail {
+    height: 75%;
+    width: 65%;
+  }
   .profile, .education, .experience, .technology, .connect {
     margin: 0;
     width: 100vw;

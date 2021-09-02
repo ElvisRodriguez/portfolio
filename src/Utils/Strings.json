@@ -4,5 +4,18 @@
         "Utilized technologies such as the Spanner database, protocol buﬀers, and an internal ﬁle compression/storage tool that transformed data into a structure queryable with SQL which allowed metrics to display on the dashboard in the form of various graph types.",
         "Implemented a pipeline in Python to fetch, transform, organize and prepare data metrics from a Spanner database.",
         "Presented documentation and usage metrics dashboard to an extended team of 20 including 3 project managers as well as 45 interns."
-    ]
+    ],
+    "MEC" : [
+        "Studied for Bachelor in Computer Science.",
+        "Studied for a minor in Mathematics.",
+        "Heavily involved in the MEC chapter Association for Computing Machinery (ACM) first as Vice President and then as President, each for one year.",
+        "Worked with Faculty during the Covid Pandemic to accomodate students in a virtual setting and ensure they had the resources (laptops, learning environment, etc) they needed to succeed.",
+        "Worked as a tutor and as a TA for our fundamental courses in order to ensure students had a solid foundation in CS fundamentals such as OOP, DS&A, and program design."
+    ],
+    "Contact" : {
+        "github" : "https://github.com/ElvisRodriguez",
+        "linkedin" : "https://www.linkedin.com/in/elvis-rodriguez-20brklyn20/",
+        "pypi" : "https://pypi.org/user/ElvisRodriguez/",
+        "email" : "mailto: elvisrodriguez1992@gmail.com"
+    }
 }

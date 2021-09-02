@@ -10,13 +10,6 @@ function SideNav() {
     
     return (
         <div className="side-nav">
-            <a href="#profile" className="waves-effect waves-light">
-                <div className="nav-item row valign-wrapper">
-                    <div className="col">
-                        <i className="material-icons">home</i>
-                    </div>
-                </div>
-            </a>
             <NavItem icon="person" anchor="Profile" link="#profile"/>
             <NavItem icon="verified_user" anchor="Experience" link="#experience"/>
             <NavItem icon="code" anchor="Technology" link="#technology"/>
