@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.704930c3.chunk.css",
-    "main.js": "/portfolio/static/js/main.88a5f9c3.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.88a5f9c3.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.a93f50cf.chunk.css",
+    "main.js": "/portfolio/static/js/main.8dd14846.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.8dd14846.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.b802ffb7.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.b802ffb7.js.map",
     "static/js/2.1b6753b0.chunk.js": "/portfolio/static/js/2.1b6753b0.chunk.js",
@@ -10,18 +10,32 @@
     "static/js/3.b436d50b.chunk.js": "/portfolio/static/js/3.b436d50b.chunk.js",
     "static/js/3.b436d50b.chunk.js.map": "/portfolio/static/js/3.b436d50b.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.704930c3.chunk.css.map": "/portfolio/static/css/main.704930c3.chunk.css.map",
+    "static/css/main.a93f50cf.chunk.css.map": "/portfolio/static/css/main.a93f50cf.chunk.css.map",
     "static/js/2.1b6753b0.chunk.js.LICENSE.txt": "/portfolio/static/js/2.1b6753b0.chunk.js.LICENSE.txt",
+    "static/media/atom-logo.4db01b6f.svg": "/portfolio/static/media/atom-logo.4db01b6f.svg",
+    "static/media/bash-logo.5e862000.svg": "/portfolio/static/media/bash-logo.5e862000.svg",
+    "static/media/cpp-logo.604fcb2c.svg": "/portfolio/static/media/cpp-logo.604fcb2c.svg",
+    "static/media/css3-logo.4aee21f2.svg": "/portfolio/static/media/css3-logo.4aee21f2.svg",
+    "static/media/flask-logo.9815bfcc.svg": "/portfolio/static/media/flask-logo.9815bfcc.svg",
     "static/media/github-logo.23ea2787.svg": "/portfolio/static/media/github-logo.23ea2787.svg",
     "static/media/gmail-logo.d9eb9019.png": "/portfolio/static/media/gmail-logo.d9eb9019.png",
+    "static/media/html5-logo.aff8a9cb.svg": "/portfolio/static/media/html5-logo.aff8a9cb.svg",
+    "static/media/java-logo.269f3bb9.svg": "/portfolio/static/media/java-logo.269f3bb9.svg",
+    "static/media/javascript-logo.acc4642f.svg": "/portfolio/static/media/javascript-logo.acc4642f.svg",
+    "static/media/jquery-logo.f1865ebf.svg": "/portfolio/static/media/jquery-logo.f1865ebf.svg",
     "static/media/linkedin-logo.a4602369.svg": "/portfolio/static/media/linkedin-logo.a4602369.svg",
     "static/media/mec-logo.c992af96.jpg": "/portfolio/static/media/mec-logo.c992af96.jpg",
-    "static/media/profile_picture.b2bebfb8.jpeg": "/portfolio/static/media/profile_picture.b2bebfb8.jpeg"
+    "static/media/nodejs-logo.2c61171f.svg": "/portfolio/static/media/nodejs-logo.2c61171f.svg",
+    "static/media/profile_picture.b2bebfb8.jpeg": "/portfolio/static/media/profile_picture.b2bebfb8.jpeg",
+    "static/media/python-logo.063da199.svg": "/portfolio/static/media/python-logo.063da199.svg",
+    "static/media/react-logo.cecd5b65.svg": "/portfolio/static/media/react-logo.cecd5b65.svg",
+    "static/media/vim-logo.db23958f.svg": "/portfolio/static/media/vim-logo.db23958f.svg",
+    "static/media/vscode-logo.5f6c87ee.svg": "/portfolio/static/media/vscode-logo.5f6c87ee.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.b802ffb7.js",
     "static/js/2.1b6753b0.chunk.js",
-    "static/css/main.704930c3.chunk.css",
-    "static/js/main.88a5f9c3.chunk.js"
+    "static/css/main.a93f50cf.chunk.css",
+    "static/js/main.8dd14846.chunk.js"
   ]
 }
