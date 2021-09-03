@@ -37,7 +37,7 @@ function Technology(props) {
             <div className="category">
                 <h3><code>Languages</code></h3>
             </div>
-            <div className="container">
+            <div className="container row">
                 <TechLogo src={python_logo} alt="Python Logo"/>
                 <TechLogo src={bash_logo} alt="Bash Logo"/>
                 <TechLogo src={javascript_logo} alt="JavaScript Logo"/>
@@ -49,7 +49,7 @@ function Technology(props) {
             <div className="category">
                 <h3><code>Frameworks</code></h3>
             </div>
-            <div className="container">
+            <div className="container row">
                 <TechLogo src={flask_logo} alt="Flask Logo"/>
                 <TechLogo src={react_logo} alt="React Logo"/>
                 <TechLogo src={jquery_logo} alt="Jquery Logo"/>
@@ -57,7 +57,7 @@ function Technology(props) {
             <div className="category">
                 <h3><code>Tools</code></h3>
             </div>
-            <div className="container">
+            <div className="container row">
                 <TechLogo src={vscode_logo} alt="Vistual Studio Code Logo"/>
                 <TechLogo src={vim_logo} alt="Vim Logo"/>
                 <TechLogo src={atom_logo} alt="Atom Logo"/>

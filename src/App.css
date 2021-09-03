@@ -121,10 +121,14 @@
   color: #77A076;
 }
 
+.technology {
+  height: auto;
+}
+
 .technology .card {
   background-color: aliceblue;
   height: 100px;
-  margin-left: 5px;
+  margin-right: 5px;
   width: 100px;
 }
 
@@ -132,9 +136,10 @@
   align-items: center;
   display: flex;
   flex-wrap: wrap;
-  flex: 1;
   justify-content: center;
   width: 100%;
+  margin-bottom: 0px;
+  margin-top: 0px;
 }
 
 .technology img {
@@ -179,6 +184,10 @@ label {
   .card .card-image img {
     display: none;
   }
+  .technology .card, .technology img {
+    height: 65px;
+    width: 65px;
+  }
 }
 
 @media (max-width: 900px) {
@@ -193,6 +202,10 @@ label {
     height: 30%;
     width: 30%;
   }
+  .technology .card, .technology img {
+    height: 60px;
+    width: 60px;
+  }
 }
 
 @media (max-width: 600px) {
@@ -204,6 +217,7 @@ label {
     width: 65%;
   }
   .profile, .education, .experience, .technology, .connect {
+    height: auto;
     margin: 0;
     width: 100vw;
   }
@@ -212,8 +226,8 @@ label {
     width: 50%;
   }
   .technology .card, .technology img {
-    height: 65px;
-    width: 65px;
+    height: 60px;
+    width: 60px;
   }
   h1 {
     font-size: 30px;
