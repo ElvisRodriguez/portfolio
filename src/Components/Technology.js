@@ -15,6 +15,7 @@ import python_logo from "../Images/language-logos/python-logo.svg";
 // Frameworks
 import flask_logo from "../Images/framework-logos/flask-logo.svg";
 import jquery_logo from "../Images/framework-logos/jquery-logo.svg";
+import plotly_logo from "../Images/framework-logos/plotly-named-logo.svg";
 import react_logo from "../Images/framework-logos/react-logo.svg";
 
 // General Tools
@@ -53,6 +54,7 @@ function Technology(props) {
                 <TechLogo src={flask_logo} alt="Flask Logo"/>
                 <TechLogo src={react_logo} alt="React Logo"/>
                 <TechLogo src={jquery_logo} alt="Jquery Logo"/>
+                <TechLogo src={plotly_logo} alt="Plotly Logo"/>
             </div>
             <div className="category">
                 <h3><code>Tools</code></h3>

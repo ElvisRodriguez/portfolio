@@ -50,6 +50,10 @@
   width: auto;
 }
 
+.experience {
+  height: auto;
+}
+
 .experience, .education {
   background-color: #77A076;
 }
@@ -63,6 +67,9 @@
 
 .experience .card-image img, .education .card-image img {
   border-radius: 50%;
+}
+
+.education .card-image img {
   border: 1px solid white;
 }
 
@@ -99,6 +106,15 @@
   border-radius: 50%;
   height: 450px;
   width: 450px;
+}
+
+.project-link {
+  display: inline-block;
+  transform: scale(1,-1);
+}
+
+.project-link a {
+  color: black;
 }
 
 .side-nav {
@@ -215,6 +231,9 @@ label {
   .connect .container .Gmail {
     height: 75%;
     width: 65%;
+  }
+  .connect .container .logo:nth-child(2) {
+    margin-left: 15px;
   }
   .profile, .education, .experience, .technology, .connect {
     height: auto;

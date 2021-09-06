@@ -5,6 +5,19 @@
         "Implemented a pipeline in Python to fetch, transform, organize and prepare data metrics from a Spanner database.",
         "Presented documentation and usage metrics dashboard to an extended team of 20 including 3 project managers as well as 45 interns."
     ],
+    "CreateFlaskApp" : [
+        "Developing a version of Facebook's Create-React-App package that instead creates a ready-to-run template of a Python Flask API utilizing flask-restful.",
+        "The project is currently in alpha, but is available to install via PyPi."
+    ],
+    "DailyPopcorn" : [
+        "Worked in a team of 3 to develop a social media platform revolving around movie lovers and critics alike similar to Rottentomatoes.",
+        "The project uses the MERN tech stack and was hosted on heroku."
+    ],
+    "Atawear" : [
+        "Worked in a team of 5 to develop a prototype bracelet to monitor heart rate in infants with the ability to report abnormal changes such as heart fibrillation.",
+        "Implemented a server in Python using Plotly's Dash framework in order to both communicate with the bracelet prototype as well as display a dashboard UI to view infant heart rate in real time.",
+        "The prototype device was an arduino affixed with a heart rate sensor that sent data to the server over wifi."
+    ],
     "MEC" : [
         "Studied for Bachelor in Computer Science.",
         "Studied for a minor in Mathematics.",
