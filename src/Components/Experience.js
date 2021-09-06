@@ -103,8 +103,8 @@ function Experience(props) {
                     </div>
                     <ul className="card-badges">
                         <li>React</li>
-                        <li>NodeJS</li>
-                        <li>ExpressJS</li>
+                        <li>Node</li>
+                        <li>Express</li>
                         <li>MongoDB</li>
                     </ul>
                     <ul className="card-details left-align">
