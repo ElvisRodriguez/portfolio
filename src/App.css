@@ -178,6 +178,10 @@
     blink-caret .75s step-end infinite;
 }
 
+#no-display {
+  display: none;
+}
+
 h1 {
   font-family: 'Roboto', sans-serif;
 }
