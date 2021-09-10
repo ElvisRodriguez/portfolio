@@ -44,6 +44,14 @@ function Experience(props) {
                 descriptions={Strings["DailyPopcorn"]}
                 image={react_logo} alt="React Logo"/>
             <ProjectCard
+                title="ToDoIt Task Manager"
+                projectLink="https://github.com/ElvisRodriguez/TaskManager"
+                smalls="Owner | Full Stack | OAuth | Unit Testing"
+                workPeriod="May 2019 - September 2019"
+                badges={["Flask", "Python", "SQLite", "Jinja Templates"]}
+                descriptions={Strings["ToDoIt"]}
+                image={flask_logo} alt="Flask Logo"/>
+            <ProjectCard
                 title="Atawear Baby Bracelet"
                 projectLink="https://github.com/ElvisRodriguez/Baby_Bracelet"
                 smalls="Co-Owner | Backend | Frontend"

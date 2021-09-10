@@ -18,6 +18,11 @@
         "Implemented a server in Python using Plotly's Dash framework in order to both communicate with the bracelet prototype as well as display a dashboard UI to view infant heart rate in real time.",
         "The prototype device was an arduino affixed with a heart rate sensor that sent data to the server over wifi."
     ],
+    "ToDoIt" : [
+        "Developed a full stack application that kept track of future tasks that the user wanted to be reminded of.",
+        "Tasks were uploaded with a date and time so that the application could email the user a reminder of that task at the date/time given.",
+        "App was developed mainly using Python Flask along with jinja templates and sqlite for database management."
+    ],
     "MEC" : [
         "Studied for Bachelor in Computer Science.",
         "Studied for a minor in Mathematics.",
