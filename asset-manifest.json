@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.04e0786d.chunk.css",
-    "main.js": "/portfolio/static/js/main.a49e3ae9.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.a49e3ae9.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.e2d2176c.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.e2d2176c.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.b802ffb7.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.b802ffb7.js.map",
     "static/js/2.1b6753b0.chunk.js": "/portfolio/static/js/2.1b6753b0.chunk.js",
@@ -19,6 +19,7 @@
     "static/media/flask-logo.9815bfcc.svg": "/portfolio/static/media/flask-logo.9815bfcc.svg",
     "static/media/github-logo.23ea2787.svg": "/portfolio/static/media/github-logo.23ea2787.svg",
     "static/media/gmail-logo.eff749af.png": "/portfolio/static/media/gmail-logo.eff749af.png",
+    "static/media/google-logo.350973fe.png": "/portfolio/static/media/google-logo.350973fe.png",
     "static/media/html5-logo.aff8a9cb.svg": "/portfolio/static/media/html5-logo.aff8a9cb.svg",
     "static/media/java-logo.269f3bb9.svg": "/portfolio/static/media/java-logo.269f3bb9.svg",
     "static/media/javascript-logo.acc4642f.svg": "/portfolio/static/media/javascript-logo.acc4642f.svg",
@@ -29,6 +30,7 @@
     "static/media/plotly-logo.02cb4e6f.svg": "/portfolio/static/media/plotly-logo.02cb4e6f.svg",
     "static/media/plotly-named-logo.b8b4eba0.svg": "/portfolio/static/media/plotly-named-logo.b8b4eba0.svg",
     "static/media/profile_picture.979e6267.jpeg": "/portfolio/static/media/profile_picture.979e6267.jpeg",
+    "static/media/pypi-logo.adaf52b2.svg": "/portfolio/static/media/pypi-logo.adaf52b2.svg",
     "static/media/python-logo.063da199.svg": "/portfolio/static/media/python-logo.063da199.svg",
     "static/media/react-logo.cecd5b65.svg": "/portfolio/static/media/react-logo.cecd5b65.svg",
     "static/media/vim-logo.db23958f.svg": "/portfolio/static/media/vim-logo.db23958f.svg",
@@ -38,6 +40,6 @@
     "static/js/runtime-main.b802ffb7.js",
     "static/js/2.1b6753b0.chunk.js",
     "static/css/main.04e0786d.chunk.css",
-    "static/js/main.a49e3ae9.chunk.js"
+    "static/js/main.e2d2176c.chunk.js"
   ]
 }
