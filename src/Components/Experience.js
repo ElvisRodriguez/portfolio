@@ -7,6 +7,7 @@ import flask_logo from "../Images/framework-logos/flask-logo.svg";
 import google_logo from "../Images/google-logo.png";
 import react_logo from "../Images/framework-logos/react-logo.svg";
 import plotly_logo from "../Images/framework-logos/plotly-logo.svg";
+import pypi_logo from "../Images/pypi-logo.svg"
 import Strings from "../Utils/Strings.json";
 
 function Experience(props) {
@@ -24,31 +25,31 @@ function Experience(props) {
                 displayLink="no-display"
                 smalls="Software Engineering Intern | Project Co-Owner"
                 workPeriod="May 2018 - August 2018"
-                badges={["Metrics", "Python", "Data Processing"]}
+                badges={["Metrics", "Python", "Data Pipeline", "SQL"]}
                 descriptions={Strings["GoogleEP"]}
                 image={google_logo} alt="Google Logo"/>
             <ProjectCard
                 title="Create-Flask-Api-App"
                 projectLink="https://github.com/ElvisRodriguez/create-flask-api-app"
                 smalls="Project Owner"
-                workPeriod="August 2020 - Present"
-                badges={["REST APIs", "Flask", "PyPi", "Python"]}
+                workPeriod="June 2021 - August 2021"
+                badges={["REST", "APIs", "Flask", "PyPi", "Python"]}
                 descriptions={Strings["CreateFlaskApp"]}
-                image={flask_logo} alt="Flask Logo"/>
+                image={pypi_logo} alt="Flask Logo"/>
             <ProjectCard
                 title="Daily Popcorn"
                 projectLink="https://github.com/dave791/DailyPopcorn"
                 smalls="Co-Owner | Backend | API integration"
                 workPeriod="October 2019 - March 2020"
-                badges={["React", "Node", "Express", "MongoDB"]}
+                badges={["MongoDB", "Express.js", "React.js", "Node.js"]}
                 descriptions={Strings["DailyPopcorn"]}
                 image={react_logo} alt="React Logo"/>
             <ProjectCard
                 title="ToDoIt Task Manager"
                 projectLink="https://github.com/ElvisRodriguez/TaskManager"
                 smalls="Owner | Full Stack | OAuth | Unit Testing"
-                workPeriod="May 2019 - September 2019"
-                badges={["Flask", "Python", "SQLite", "Jinja Templates"]}
+                workPeriod="July 2019 - August 2019"
+                badges={["Flask", "Python", "SQLite", "Jinja Templates", "OAuth"]}
                 descriptions={Strings["ToDoIt"]}
                 image={flask_logo} alt="Flask Logo"/>
             <ProjectCard

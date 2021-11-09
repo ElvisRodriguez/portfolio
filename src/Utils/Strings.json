@@ -1,30 +1,30 @@
 {
     "GoogleEP" : [
-        "Created a usage metrics dashboard in Python for testing infrastructure that managed pools of sandbox environments in order to show leadership and clients the impact of the tool.",
+        "Developed a Usage Metrics Dashboard in Python for testing infrastructure that managed pools of sandbox environments in order to show leadership and clients the impact of the tool.",
         "Utilized technologies such as the Spanner database, protocol buﬀers, and an internal ﬁle compression/storage tool that transformed data into a structure queryable with SQL which allowed metrics to display on the dashboard in the form of various graph types.",
         "Implemented a pipeline in Python to fetch, transform, organize and prepare data metrics from a Spanner database.",
-        "Presented documentation and usage metrics dashboard to an extended team of 20 including 3 project managers as well as 45 interns."
+        "Demonstrated Usage Metrics Dashboard project to upper management."
     ],
     "CreateFlaskApp" : [
-        "Developing a version of Facebook's Create-React-App package that instead creates a ready-to-run template of a Python Flask API utilizing flask-restful.",
+        "Developed a version of Facebook's Create-React-App package that instead creates a ready-to-run template of a Python Flask API utilizing flask-restful.",
         "The project is currently in alpha, but is available to install via PyPi."
     ],
     "DailyPopcorn" : [
-        "Worked in a team of 3 to develop a social media platform revolving around movie lovers and critics alike similar to Rottentomatoes.",
-        "The project uses the MERN tech stack and was hosted on heroku."
+        "Led a team to develop a social media platform revolving around movie lovers and critics alike similar to Rottentomatoes.",
+        "The project uses the MERN (MongoDB, Express.js, React.js, Node.js) tech stack and was hosted on heroku."
     ],
     "Atawear" : [
-        "Worked in a team of 5 to develop a prototype bracelet to monitor heart rate in infants with the ability to report abnormal changes such as heart fibrillation.",
+        "Led a team to develop a prototype bracelet to monitor heart rate in infants with the ability to report abnormal changes such as heart fibrillation.",
         "Implemented a server in Python using Plotly's Dash framework in order to both communicate with the bracelet prototype as well as display a dashboard UI to view infant heart rate in real time.",
         "The prototype device was an arduino affixed with a heart rate sensor that sent data to the server over wifi."
     ],
     "ToDoIt" : [
-        "Developed a full stack application that kept track of future tasks that the user wanted to be reminded of.",
-        "Tasks were uploaded with a date and time so that the application could email the user a reminder of that task at the date/time given.",
+        "Developed a full stack application that kept track of tasks on a user's ToDo list.",
+        "Implemented login/authentication and maintained a secure database for user data.",
         "App was developed mainly using Python Flask along with jinja templates and sqlite for database management."
     ],
     "MEC" : [
-        "Studied for Bachelor in Computer Science.",
+        "Graduated with a Bachelor in Computer Science.",
         "Studied for a minor in Mathematics.",
         "Heavily involved in the MEC chapter Association for Computing Machinery (ACM) first as Vice President and then as President, each for one year.",
         "Worked with Faculty during the Covid Pandemic to accomodate students in a virtual setting and ensure they had the resources (laptops, learning environment, etc) they needed to succeed.",
