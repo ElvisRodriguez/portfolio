@@ -6,7 +6,6 @@ import ProjectCard from "./ProjectCard";
 import flask_logo from "../Images/framework-logos/flask-logo.svg";
 import google_logo from "../Images/google-logo.png";
 import react_logo from "../Images/framework-logos/react-logo.svg";
-import plotly_logo from "../Images/framework-logos/plotly-logo.svg";
 import pypi_logo from "../Images/pypi-logo.svg"
 import Strings from "../Utils/Strings.json";
 
@@ -58,8 +57,7 @@ function Experience(props) {
                 smalls="Co-Owner | Backend | Frontend"
                 workPeriod="September 2018 - December 2018"
                 badges={["Plotly", "Arduino", "Python", "Data Processing"]}
-                descriptions={Strings["Atawear"]}
-                image={plotly_logo} alt="Plotly Logo"/>
+                descriptions={Strings["Atawear"]}/>
         </div>
     );
 }
