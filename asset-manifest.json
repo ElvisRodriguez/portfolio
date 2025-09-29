@@ -1,14 +1,16 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.fbffb57c.css",
-    "main.js": "/portfolio/static/js/main.a0577a10.js",
+    "main.js": "/portfolio/static/js/main.c9ed7f1c.js",
     "static/js/453.ea41da1c.chunk.js": "/portfolio/static/js/453.ea41da1c.chunk.js",
     "static/media/profile_picture.jpeg": "/portfolio/static/media/profile_picture.76c331205ff66bd578b9.jpeg",
     "static/media/gmail-logo.png": "/portfolio/static/media/gmail-logo.eff749afd9fd460eee8e.png",
     "static/media/pypi-logo.svg": "/portfolio/static/media/pypi-logo.b66af5539fe6c5d3878d3155a2412807.svg",
+    "static/media/amazon-logo.png": "/portfolio/static/media/amazon-logo.a0a754c54fc3e8ca0ecc.png",
     "static/media/flask-logo.svg": "/portfolio/static/media/flask-logo.9815bfccb7e622d3fc27e2a4aa2d2e7b.svg",
     "static/media/mec-logo.jpg": "/portfolio/static/media/mec-logo.68fd1287fdafb3d75d1e.jpg",
     "static/media/google-logo.png": "/portfolio/static/media/google-logo.350973fee1401b679e48.png",
+    "static/media/bloomberg-logo.png": "/portfolio/static/media/bloomberg-logo.b52f49a1a09872df28ac.png",
     "static/media/jquery-logo.svg": "/portfolio/static/media/jquery-logo.f1865ebf6c495d1c131ead82095df122.svg",
     "static/media/bash-logo.svg": "/portfolio/static/media/bash-logo.5e8620004433fc1987dc66c94d74d58b.svg",
     "static/media/css3-logo.svg": "/portfolio/static/media/css3-logo.4aee21f25f7e14351003f8dd57e2d4f0.svg",
@@ -26,11 +28,11 @@
     "static/media/javascript-logo.svg": "/portfolio/static/media/javascript-logo.acc4642f682cd93a4c20a8a02c0cfa21.svg",
     "static/media/html5-logo.svg": "/portfolio/static/media/html5-logo.aff8a9cb398fc75e4f21dab1ba1e097e.svg",
     "main.fbffb57c.css.map": "/portfolio/static/css/main.fbffb57c.css.map",
-    "main.a0577a10.js.map": "/portfolio/static/js/main.a0577a10.js.map",
+    "main.c9ed7f1c.js.map": "/portfolio/static/js/main.c9ed7f1c.js.map",
     "453.ea41da1c.chunk.js.map": "/portfolio/static/js/453.ea41da1c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fbffb57c.css",
-    "static/js/main.a0577a10.js"
+    "static/js/main.c9ed7f1c.js"
   ]
 }
