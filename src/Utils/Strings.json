@@ -1,4 +1,11 @@
 {
+    "Mturk" : [
+        "Trained AI models to produce better code and perform better when accepting prompts."
+    ],
+    "Bloomberg" : [
+        "Migrated legacy financial data to modern Bloomberg infrastructure via conversion scripts in python.",
+        "Completed data tie out with legacy and modern financial data via code changes to Bloomberg terminal screens."
+    ],
     "GoogleEP" : [
         "Developed a Usage Metrics Dashboard in Python for testing infrastructure that managed pools of sandbox environments in order to show leadership and clients the impact of the tool.",
         "Utilized technologies such as the Spanner database, protocol buﬀers, and an internal ﬁle compression/storage tool that transformed data into a structure queryable with SQL which allowed metrics to display on the dashboard in the form of various graph types.",

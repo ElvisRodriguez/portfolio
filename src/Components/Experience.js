@@ -3,6 +3,8 @@ import M from "materialize-css";
 
 import ProjectCard from "./ProjectCard";
 
+import amazon_logo from "../Images/amazon-logo.png";
+import bloomberg_logo from "../Images/bloomberg-logo.png";
 import flask_logo from "../Images/framework-logos/flask-logo.svg";
 import google_logo from "../Images/google-logo.png";
 import react_logo from "../Images/framework-logos/react-logo.svg";
@@ -19,6 +21,22 @@ function Experience(props) {
             <div className="green-header">
                 <h1><code>Experience</code></h1>
             </div>
+            <ProjectCard
+                title="Amazon Mturk"
+                displayLink="no-display"
+                smalls="Software Engineer"
+                workPeriod="November 2024 - Present"
+                badges={["Python", "AI"]}
+                descriptions={Strings["Mturk"]}
+                image={amazon_logo} alt="Amazon Logo"/>
+            <ProjectCard
+                title="Bloomberg"
+                displayLink="no-display"
+                smalls="Software Engineer | Project Co-Owner"
+                workPeriod="July 2022 - October 2024"
+                badges={["Javascript", "Python", "Data Pipeline", "SQL"]}
+                descriptions={Strings["Bloomberg"]}
+                image={bloomberg_logo} alt="Bloomberg Logo"/>
             <ProjectCard
                 title="Google Engineering Practicum"
                 displayLink="no-display"
